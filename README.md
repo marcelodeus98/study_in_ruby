@@ -8,7 +8,7 @@ Este repositório tem como finalidade documentar meu progresso no aprendizado de
 ## 📚 Tópicos Estudados
 - 💡 **Declaração de variáveis**
 - 📌 **Arrays e Hashes**
-- 🔄 **Laços de repetição (while, for, each, times, etc.)**
+- 🔄 **Laços de repetição (while, for, each, etc.)**
 - ✅ **Condicionais e operadores relacionais**
 - 🛠 **Funções e métodos**
 - 📥 **Entrada e saída de dados**
